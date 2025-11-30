@@ -1,3 +1,14 @@
+# 📌 简要
+补档<a href="https://github.com/T192138/JAV-JHS/raw/refs/heads/main/JAV-JHS.3.3.6-fix.user.js" target="_blank">3.3.6版本</a>，往期打赏者，可提供截图，领取最新版本，TG号: https://t.me/t_19527
+
+# 🚕 如何运行
+1. 在谷歌Chrome浏览器上安装<a href="https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo" target="_blank">Tampermonkey</a>
+   
+2. 安装<a href="https://github.com/T192138/JAV-JHS/raw/refs/heads/main/JAV-JHS.3.3.6-fix.user.js" target="_blank">JAV-JHS脚本</a>
+
+3. 谷歌Chrome浏览器-扩展程序-管理扩展程序，右上角选择启用<a href="https://www.tampermonkey.net/faq.php#Q209" target="_blank">开发者模式</a>
+
+
 # 📜 更新记录
 ## JAV-JHS
 v3.5.4 **修复JavDb-Cloudflare拦截，导致瀑布流、加入黑名单、黑名单检测、演员同步、新作品检测等相关功能无法使用问题**
